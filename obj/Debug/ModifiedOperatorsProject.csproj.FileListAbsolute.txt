@@ -1,0 +1,7 @@
+D:\Visual Studio Projects (Training)\ModifiedOperatorsProject\bin\Debug\ModifiedOperatorsProject.exe.config
+D:\Visual Studio Projects (Training)\ModifiedOperatorsProject\bin\Debug\ModifiedOperatorsProject.exe
+D:\Visual Studio Projects (Training)\ModifiedOperatorsProject\bin\Debug\ModifiedOperatorsProject.pdb
+D:\Visual Studio Projects (Training)\ModifiedOperatorsProject\obj\Debug\ModifiedOperatorsProject.csproj.AssemblyReference.cache
+D:\Visual Studio Projects (Training)\ModifiedOperatorsProject\obj\Debug\ModifiedOperatorsProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects (Training)\ModifiedOperatorsProject\obj\Debug\ModifiedOperatorsProject.exe
+D:\Visual Studio Projects (Training)\ModifiedOperatorsProject\obj\Debug\ModifiedOperatorsProject.pdb
